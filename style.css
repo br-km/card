@@ -26,9 +26,6 @@ body{
     color: white;
     position: relative;
     overflow: hidden;
-    transform-style: preserve-3d;
-    transform: perspective(1000px);
-    animation: spin 0.5s ease-in;
 }
 
 @keyframes spin {
